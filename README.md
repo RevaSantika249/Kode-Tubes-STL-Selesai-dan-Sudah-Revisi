@@ -1,1 +1,2 @@
 # Kode-Tubes-STL-Selesai-dan-Sudah-Revisi
+Kode sudah selesai untuk tes ketiga sensor keluarannya sudah bagus, terkoneksi ke blynk serta dapat mengirim notifikasi/peringatan ke smartphone dan email melalui tombol darurat. dalam kode terdapat 3 poin yang terpenuhi dari aturan tugas besar yaitu: task minimal 3 (di kode ada 5 task), ada perubahan prioritas task dan pengunaan semaphores sehingga terdapat 3 poin terpenuhi.
