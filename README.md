@@ -9,5 +9,7 @@ Ada sedikit perubahan terkait masalah yang sebelumnya tidak bisa memantau kadar 
 
 untuk video simulasi saya tambahkan yang baru pada link berikut:
 Link untuk memantau sensor terutama sensor debu ke kondisi normal: https://youtu.be/ZRlNxe1Gxb4 
+
 Link untuk simulasi alat dari deteksi tiga sensor sampai kipas aktif: https://youtu.be/8c6MMYvQCD8
+
 Link untuk memantau pengiriman hasil baca sensor ke blynk dan notifikasinya bila tombol darurat ditekan: https://youtu.be/nAx5kDcey64 
