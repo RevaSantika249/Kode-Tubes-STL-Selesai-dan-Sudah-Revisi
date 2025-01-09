@@ -8,6 +8,7 @@ dari judul kami yaitu Sistem Monitoring Kualitas Udara dalam Ruangan dimana kami
 Ada sedikit perubahan terkait masalah yang sebelumnya tidak bisa memantau kadar asap, suhu dan debu di blynk sekarang dapat dilakukan. masalah sebelumnya karena penambahan task dan metode queue masih bermasalah namun, untuk loop sekarang dapat dilakukan sehingga hasil baca sensor dapat terkirim. kesalah yang terjadi karena kode pengiriman data sensor ternyata ada di task MQ-135 tidak di loop oleh karena itu tidak ada yang terkirim. untuk kode akhir sudah saya tambahkan disini dengan judul "Kode_Selesai_Percobaan_2_Tambah_Pengirim_Hasil_Baca_Sensor_di_L" (yang terpotong L harusnya Loop). jadi mohon maaf bapak/ibu atas kesalahan kami, sekian terima kasih.
 
 untuk video simulasi saya tambahkan yang baru pada link berikut:
+
 Link untuk memantau sensor terutama sensor debu ke kondisi normal: https://youtu.be/ZRlNxe1Gxb4 
 
 Link untuk simulasi alat dari deteksi tiga sensor sampai kipas aktif: https://youtu.be/8c6MMYvQCD8
