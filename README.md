@@ -18,3 +18,7 @@ Link untuk simulasi alat dari deteksi tiga sensor sampai kipas aktif: https://yo
 Link untuk memantau pengiriman hasil baca sensor ke blynk dan notifikasinya bila tombol darurat ditekan: https://youtu.be/nAx5kDcey64 
 
 Link dokumentasi berupa foto simulasi: https://drive.google.com/file/d/1pfshQ76j7xB-HvCUzTb1Z4ZOC751-it0/view?usp=sharing
+
+10 Januari 2025
+
+Link video untuk tes buzzer yang sebelumnya dimana saat uji alat tidak dipasangkan buzzernya: https://youtu.be/UUnwxMTTlNQ
